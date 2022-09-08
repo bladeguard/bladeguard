@@ -72,7 +72,7 @@
 ![화면 캡처 2022-09-08 113650](https://user-images.githubusercontent.com/111412367/189022112-ea351b2e-1d79-4bdc-a272-f462258c1d4f.jpg)
 ![화면 캡처 2022-09-08 113752](https://user-images.githubusercontent.com/111412367/189022124-ed1ec649-99c4-474b-a41f-1b9b723eaa28.jpg)
 
-## 👨‍👩‍👦‍👦 팀원 역할
+# 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
@@ -98,7 +98,7 @@
     <td align="center"><b>댓글기능 구현</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/bladeguard" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
